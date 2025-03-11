@@ -47,6 +47,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+.product-category {
+    text-align: center;
+    text-decoration: wavy;
+    width: 100vw;
+    justify-content: center;
+}
 .product-list {
     display: flex;
     flex-wrap: wrap;
@@ -167,6 +173,7 @@ body {
 .cart_quantity_count{
     margin-top: 16px;
     /* background-color: red; */
+    color: #e74c3c;
     margin-left: 27px;
     position: absolute;
     font-size: 29px;
